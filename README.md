@@ -1,49 +1,30 @@
-# 🚀 KernelPanic
 
-**Frontend Developer | Blockchain Enthusiast | AI Integration Specialist**
+**Frontend Developer • Blockchain Enthusiast • Bot Creator**
 
-Welcome to my corner of the decentralized web! I'm a passionate frontend developer with a deep focus on blockchain technologies, specializing in **Solana DApps**, **EVM ecosystems**, and **AI-powered trading solutions**.
+Building web applications with a focus on crypto, trading interfaces, and AI automation. I enjoy creating smooth user experiences and making complex systems feel simple.
 
-## 🛠️ Tech Stack
+---
 
-### Frontend
-- **React** with `Vite.js` for lightning-fast development
-- **Next.js** for production-ready applications
-- **TypeScript** for type-safe blockchain interactions
-- Modern CSS frameworks and component libraries
+## 🛠️ What I Work With
 
-### Blockchain
-- **Solana** - Web3.js, Anchor Framework, SPL Tokens
-- **EVM Chains** - Ethereum, Polygon, BSC, Arbitrum
-- **Web3 Libraries** - ethers.js, web3.js, @solana/web3.js
-- **Wallet Integration** - Phantom, MetaMask, WalletConnect
+### 🎯 **Frontend Development**
+Creating responsive and interactive web applications
+- **Real-time interfaces** with live data updates
+- **Mobile-optimized** designs that work everywhere
+- **Modern animations** and smooth transitions
 
-### Backend & Infrastructure
-- **Node.js** backend services
-- **Telegram Bot API** for trading bots and notifications
-- **AI/ML Integration** - OpenAI API, custom trading algorithms
-- **Database** - MongoDB, PostgreSQL for data persistence
+### 🤖 **Automation & Bots**
+Building Telegram bots and automated systems
+- **Trading notifications** and market alerts
+- **AI integration** for data analysis
+- **Custom workflows** for various use cases
 
-## 🔥 What I Build
+### ⚡ **Web Technologies**
+Fast, reliable applications using modern tools
+- **Vite.js** for rapid development
+- **Next.js** for production applications
+- **TypeScript** for better code quality
 
-### 🎯 DeFi Applications
-- Decentralized exchanges (DEX) interfaces
-- Yield farming dashboards
-- Portfolio tracking applications
-- Cross-chain bridges
+---
 
-### 🤖 Trading Bots
-- Telegram bots for automated trading
-- AI-powered market analysis tools
-- Real-time price alerts and notifications
-- Custom trading strategies implementation
-
- 
-
-## 📊 GitHub Stats
-
-![KernelPanic's GitHub stats](https://github-readme-stats.vercel.app/api?username=KernelPanic&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KernelPanic&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d)
-
- 
+## 🎮 Specialization Areas
